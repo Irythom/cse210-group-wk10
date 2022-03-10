@@ -1,13 +1,14 @@
-Cycle
+## Cycle
 Cycle is a game where the players try to cut each other off using cycles that leave a trail behind them
 
-Rules
-There are 2 player. Players can move up, down, left and right: Player one moves using the W, S, A and D keys. Player two moves using the I, K, J and L keys. Each player's trail grows as they move. Players try to maneuver so the opponent collides with their trail. If a player collides with their opponent's trail GAME'S OVER.
+## Rules
+There are 2 players. Players can move up, down, left and right: Player one moves using the W, S, A and D keys. Player two moves using the I, K, J and L keys. Each player's trail grows as they move. Players try to maneuver so the opponent collides with their trail. If a player collides with their opponent's trail GAME'S OVER.
 
-Getting Started
+## Getting Started
 Make sure you have Python 3.8.0 or newer and Raylib Python CFFI 3.7 installed and running on your machine. You can install Raylib Python CFFI by opening a terminal and running the following command.
 
 python3 -m pip install raylib
+
 After you've installed the required libraries, open a terminal and browse to the project's root folder. Start the program by running the following command.```
 
 python3 snake
